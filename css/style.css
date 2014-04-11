@@ -1,0 +1,31 @@
+* {
+	font-family:'Arial';
+}
+table * {
+	font-size:12pt;
+	text-align:left;
+}
+table {
+	margin-top:50px;
+}
+th, td {
+	width:150px;
+	border: 1px solid #000;
+}
+input,textarea,select {
+	display:block;
+	border:1px solid 000;
+	width:200px;
+	margin-bottom:5px;
+}
+div {
+	width:200px;
+	margin:0 auto;
+}
+button {
+	width:75px;
+	height:25px;
+	background-color:blue;
+	color:#FFF;
+	border-radius:15px;
+}
